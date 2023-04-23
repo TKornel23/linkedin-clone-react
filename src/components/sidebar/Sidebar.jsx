@@ -11,7 +11,7 @@ function Sidebar() {
             <span className="sidebar__hash">
                 #
             </span>
-            <p>{topic}</p>
+            <p>{ topic }</p>
         </div>
         );
     }
